@@ -49,7 +49,8 @@ Line 1 Col 26 has ASCII Code 10 which is a Newline.
 Enter File Name:
 random_50.txt
 Opening File: random_50.txt
-Line 1 Col 1 has ASCII Code 47 which is a Symbol.
+Line 1 Col 1 has ASCII Code 47 which is a Symbol.<p>Line 1<br>Line 2</p>
+
 Line 1 Col 2 has ASCII Code 92 which is a Symbol.
 Line 1 Col 3 has ASCII Code 78 which is a Upper Case Letter.
 Line 1 Col 4 has ASCII Code 54 which is a Digit.
