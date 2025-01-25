@@ -18,32 +18,32 @@ Line 1 Col 11 has ASCII Code 10 which is a Newline.
 Enter File Name:
 random_25.txt
 Opening File: random_25.txt
-Line 1 Col 1 has ASCII Code 58 which is a Symbol.
-Line 1 Col 2 has ASCII Code 43 which is a Symbol.
-Line 1 Col 3 has ASCII Code 81 which is a Upper Case Letter.
-Line 1 Col 4 has ASCII Code 42 which is a Symbol.
-Line 1 Col 5 has ASCII Code 70 which is a Upper Case Letter.
-Line 1 Col 6 has ASCII Code 126 which is a Symbol.
-Line 1 Col 7 has ASCII Code 61 which is a Symbol.
-Line 1 Col 8 has ASCII Code 100 which is a Lower Case Letter.
-Line 1 Col 9 has ASCII Code 80 which is a Upper Case Letter.
-Line 1 Col 10 has ASCII Code 90 which is a Upper Case Letter.
-Line 1 Col 11 has ASCII Code 63 which is a Symbol.
-Line 1 Col 12 has ASCII Code 62 which is a Symbol.
-Line 1 Col 13 has ASCII Code 51 which is a Digit.
-Line 1 Col 14 has ASCII Code 70 which is a Upper Case Letter.
-Line 1 Col 15 has ASCII Code 117 which is a Lower Case Letter.
-Line 1 Col 16 has ASCII Code 62 which is a Symbol.
-Line 1 Col 17 has ASCII Code 78 which is a Upper Case Letter.
-Line 1 Col 18 has ASCII Code 32 which is a Space.
-Line 1 Col 19 has ASCII Code 56 which is a Digit.
-Line 1 Col 20 has ASCII Code 76 which is a Upper Case Letter.
-Line 1 Col 21 has ASCII Code 32 which is a Space.
-Line 1 Col 22 has ASCII Code 80 which is a Upper Case Letter.
-Line 1 Col 23 has ASCII Code 73 which is a Upper Case Letter.
-Line 1 Col 24 has ASCII Code 45 which is a Symbol.
-Line 1 Col 25 has ASCII Code 104 which is a Lower Case Letter.
-Line 1 Col 26 has ASCII Code 10 which is a Newline.
+Line 1 Col 1 has ASCII Code 58 which is a Symbol.                                 
+Line 1 Col 2 has ASCII Code 43 which is a Symbol.                                 
+Line 1 Col 3 has ASCII Code 81 which is a Upper Case Letter.                                 
+Line 1 Col 4 has ASCII Code 42 which is a Symbol.                                 
+Line 1 Col 5 has ASCII Code 70 which is a Upper Case Letter.                                 
+Line 1 Col 6 has ASCII Code 126 which is a Symbol.                                 
+Line 1 Col 7 has ASCII Code 61 which is a Symbol.                                 
+Line 1 Col 8 has ASCII Code 100 which is a Lower Case Letter.                                 
+Line 1 Col 9 has ASCII Code 80 which is a Upper Case Letter.                                 
+Line 1 Col 10 has ASCII Code 90 which is a Upper Case Letter.                                 
+Line 1 Col 11 has ASCII Code 63 which is a Symbol.                                 
+Line 1 Col 12 has ASCII Code 62 which is a Symbol.                                 
+Line 1 Col 13 has ASCII Code 51 which is a Digit.                                 
+Line 1 Col 14 has ASCII Code 70 which is a Upper Case Letter.                                 
+Line 1 Col 15 has ASCII Code 117 which is a Lower Case Letter.                                 
+Line 1 Col 16 has ASCII Code 62 which is a Symbol.                                 
+Line 1 Col 17 has ASCII Code 78 which is a Upper Case Letter.                                 
+Line 1 Col 18 has ASCII Code 32 which is a Space.                                 
+Line 1 Col 19 has ASCII Code 56 which is a Digit.                                 
+Line 1 Col 20 has ASCII Code 76 which is a Upper Case Letter.                                 
+Line 1 Col 21 has ASCII Code 32 which is a Space.                                 
+Line 1 Col 22 has ASCII Code 80 which is a Upper Case Letter.                                 
+Line 1 Col 23 has ASCII Code 73 which is a Upper Case Letter.                                 
+Line 1 Col 24 has ASCII Code 45 which is a Symbol.                                 
+Line 1 Col 25 has ASCII Code 104 which is a Lower Case Letter.                                 
+Line 1 Col 26 has ASCII Code 10 which is a Newline.                                 
 
 
 Enter File Name:
