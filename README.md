@@ -1,19 +1,19 @@
 # C_Programming_Assignment
 
    Enter File Name:
-random_10.txt
-Opening File: random_10.txt
-Line 1 Col 1 has ASCII Code 111 which is a Lower Case Letter.
-Line 1 Col 2 has ASCII Code 81 which is a Upper Case Letter.
-Line 1 Col 3 has ASCII Code 43 which is a Symbol.
-Line 1 Col 4 has ASCII Code 51 which is a Digit.
-Line 1 Col 5 has ASCII Code 91 which is a Symbol.
-Line 1 Col 6 has ASCII Code 57 which is a Digit.
-Line 1 Col 7 has ASCII Code 121 which is a Lower Case Letter.
-Line 1 Col 8 has ASCII Code 38 which is a Symbol.
-Line 1 Col 9 has ASCII Code 49 which is a Digit.
-Line 1 Col 10 has ASCII Code 87 which is a Upper Case Letter.
-Line 1 Col 11 has ASCII Code 10 which is a Newline.
+random_10.txt                          
+Opening File: random_10.txt                                 
+Line 1 Col 1 has ASCII Code 111 which is a Lower Case Letter.                                 
+Line 1 Col 2 has ASCII Code 81 which is a Upper Case Letter.                                 
+Line 1 Col 3 has ASCII Code 43 which is a Symbol.                                 
+Line 1 Col 4 has ASCII Code 51 which is a Digit.                                 
+Line 1 Col 5 has ASCII Code 91 which is a Symbol.                                 
+Line 1 Col 6 has ASCII Code 57 which is a Digit.                                 
+Line 1 Col 7 has ASCII Code 121 which is a Lower Case Letter.                                 
+Line 1 Col 8 has ASCII Code 38 which is a Symbol.                                 
+Line 1 Col 9 has ASCII Code 49 which is a Digit.                                 
+Line 1 Col 10 has ASCII Code 87 which is a Upper Case Letter.                                 
+Line 1 Col 11 has ASCII Code 10 which is a Newline.                                 
 
 Enter File Name:
 random_25.txt
